@@ -1,0 +1,46 @@
+body{
+    background-color:white;
+    font-size: 21px;
+    
+}
+
+h1{
+    color:red;
+    font-size: 50px;
+    
+}
+p 
+{
+    color:rgb(110, 12, 12);
+}
+div{
+    
+    width:500px;
+}
+
+.uranus-1{
+    color:white;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.uranus-2{
+    color: blue;
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+span {
+    color:pink;
+  
+}
+
+.portrait-1{
+    background:green;
+    font-size: 21px;
+}
+.portrait-2{
+    background: red;
+    font-size: 21px;
+}
+

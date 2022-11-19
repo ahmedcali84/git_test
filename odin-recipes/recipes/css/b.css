@@ -1,0 +1,30 @@
+body
+{
+    background-color: aqua;
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+}
+div
+{
+    background-color: pink;
+    width:500px;
+}
+
+h1{
+    width: 520px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box
+{
+    margin:100px;
+    border:red solid 20px;
+    padding: 75px;
+}
+
+.mercury
+{
+    background-color: yellowgreen;
+    margin:50px 50px 50px 100px;
+    border:red solid 20px;
+    padding:50px 50px 50px 50px;
+}

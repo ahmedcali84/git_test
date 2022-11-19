@@ -1,0 +1,41 @@
+body {
+   background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: #181b18;
+    
+}
+
+h1 {
+    color:darkorchid;
+    font-size: 100px;
+    margin:10px 25px 25px 25px ;
+}
+h2{
+color:indigo
+}
+
+h3{
+    padding:7px 7px 7px 7px;
+}
+
+
+ div {
+background-color:rgb(24, 161, 179);
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width:500px;
+}
+.egypt{
+    padding:bottom 7px;
+}
+.box-1
+{
+    margin:25px 100px 25px 100px;
+}
+.box
+{
+    margin:25px 100px 25px 100px;
+    border:15px solid yellow;
+    padding:10px 100px 7px 100px;
+}
